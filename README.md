@@ -1,4 +1,4 @@
-![Alt text](https://tenor.com/view/arlecchino-genshin-arlecchino-arlecchino-hand-arlecchino-give-me-gif-8412155971693374116)
+![Alt text]([GIF_URL](https://tenor.com/view/arlecchino-genshin-arlecchino-arlecchino-hand-arlecchino-give-me-gif-8412155971693374116))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lreijmer-it/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lreijmer@protonmail.com) 
