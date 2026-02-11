@@ -1,5 +1,10 @@
 ![Coding animation](assets/walk.gif)
 
+## About me:
+Programming and breaking stuff
+I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk
+**EN** / FR / NL / ES / DE
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lreijmer-it/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lreijmer@protonmail.com) 
 
@@ -19,4 +24,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lreigaud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Thank you!](assets/chudjak.gif)
+Thank you!
