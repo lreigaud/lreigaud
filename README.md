@@ -1,8 +1,8 @@
 ![Coding animation](assets/walk.gif)
 
 ## About me:
-Programming and breaking stuff
-I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk
+Programming and breaking stuff <br>
+I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk <br>
 **EN** / FR / NL / ES / DE
 
 ## 🌐 Socials:
