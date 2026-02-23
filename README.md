@@ -24,5 +24,5 @@ I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk <b
 ---
 [![](https://visitcount.itsvg.in/api?id=lreigaud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Thank you!](assets/chudjak.gif)
+![Thank you!](assets/chudjak.gif) <br>
 Thank you!
