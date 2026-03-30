@@ -1,4 +1,3 @@
-## About me:
 ### Hi I'm Firanka !
 ![Coding animation](assets/flowerFrieren.gif)
 
