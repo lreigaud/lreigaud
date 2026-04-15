@@ -1,5 +1,6 @@
 ### Hi I'm Firanka !
 ![Coding animation](assets/flowerFrieren.gif)
+<div class="tenor-gif-embed" data-postid="25218630" data-share-method="host" data-aspect-ratio="1.21673" data-width="100%"><a href="https://tenor.com/view/lain-iwakura-iwakura-lain-serial-experiments-lain-bear-suit-gif-25218630">Lain Iwakura Iwakura Sticker</a>from <a href="https://tenor.com/search/lain+iwakura-stickers">Lain Iwakura Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## About me:
 Programming and breaking stuff <br>
