@@ -1,6 +1,6 @@
+![Coding animation](assets/pondFrieren.gif)
 ### Hi I'm Firanka !
-![Coding animation](assets/flowerFrieren.gif)
-
+<br>
 ## About me:
 Programming and breaking stuff <br>
 I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk <br>
@@ -25,5 +25,5 @@ I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk <b
 ---
 [![](https://visitcount.itsvg.in/api?id=lreigaud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Thank you!](assets/chudjak.gif)
+![Thank you!](assets/goofy.gif)
 Thank you!
