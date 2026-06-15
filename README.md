@@ -1,6 +1,6 @@
 ![Coding animation](assets/pondFrieren.gif)
 ### Hi I'm Firanka !
-<br>
+
 ## About me:
 Programming and breaking stuff <br>
 I like Drawing, Programming, making Music, Gamedev, Cybersecurity and huh idk <br>
