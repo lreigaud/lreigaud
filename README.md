@@ -51,7 +51,6 @@ oh yes, also, I'm also getting open source stuff, so keep up if you're intereste
 | **English** | C1 |
 | **Español** | B1-B2 and learning :p |
 | **Deutsche** | A2 |
-| **日本語** | Notions |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lreigaud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
